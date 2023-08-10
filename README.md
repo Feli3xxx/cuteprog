@@ -11,7 +11,7 @@ The notebooks were created using Databricks in Python, Scala, SQL, and R; the va
 ![On-Time Flight Performance D3 Visualization](https://databricks.com/wp-content/uploads/2016/03/airports-d3-m.gif)
 
 
-### ADAM Genomic Analysis
+### ADAM Genomic Analysis TT
 [ADAM Genomic Analysis using K-Means Clustering](https://github.com/dennyglee/databricks/blob/master/notebooks/Users/denny%40databricks.com/adam/ADAM%20k-means%20clustering.scala): Applying `k-means clustering` to predict population sample location based on genomic sequences using `ADAM`.
 
 
